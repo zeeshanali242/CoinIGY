@@ -1,0 +1,7 @@
+server:
+  port: 9090
+  contextPath: /warlordService
+spring:
+  jackson:
+    serialization:
+      INDENT_OUTPUT: true
